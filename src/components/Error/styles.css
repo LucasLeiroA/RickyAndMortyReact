@@ -1,0 +1,27 @@
+.error {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .message_error--error {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 10px #000000;
+  }
+  
+  .txt--error {
+    width: auto;
+    height: auto;
+    margin: 0px 5px;
+    font-size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
